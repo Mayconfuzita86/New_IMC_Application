@@ -1,16 +1,17 @@
-## 🚀 New_IMC_Application
+## New_IMC_Application
 
- Calculadora de IMC - Everis Kotlin Bootcamp
+ # Calculadora de IMC
  
  🛠️ Curso - Projetando o primeiro aplicativo Android usando Kotlin
  
  🎓 Professora - Ana Dias
  
- - Este foi o primeiro App desenvolvido no Bootcamp Everis Kotlin Developer na plataforma Digital Innovation
+ 1️⃣ - Este foi o primeiro App desenvolvido no Bootcamp Everis Kotlin Developer na plataforma Digital Innovation
  
- #Melhorias aplicadas:
+ # Melhorias aplicadas:
  
- <p>Classificação conforme tabela IMC: </p> 
+ <p> 🎨 Criação e estilização do Layout</p>
+ <p> 📊 Classificação conforme tabela IMC: </p> 
  
  ![tabela](https://github.com/Mayconfuzita86/New_IMC_Application/blob/main/app/src/main/res/drawable/imctable.png)
  
