@@ -4,7 +4,7 @@
  
  🛠️ Curso - Projetando o primeiro aplicativo Android usando Kotlin
  
- 🎓 Professora - Ana Dias
+ 🎓 Instrutora - Ana Dias
  
  1️⃣ - Este foi o primeiro App desenvolvido no Bootcamp Everis Kotlin Developer na plataforma Digital Innovation
  
